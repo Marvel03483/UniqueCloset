@@ -24,3 +24,5 @@ PHP, MySQL, Bootstrap 5. Prepared statements (PDO), hashed passwords, CSRF token
 - CSRF tokens on all POST forms
 
 - Sessions regenerated on login
+
+GitHub Repository: https://github.com/Marvel03483/UniqueCloset/blob/main/README.md
