@@ -11,7 +11,7 @@
 - Customer: register at register.php
 
 ## Features
-- Customer: register/login/logout, browse/search/filter, cart, COD checkout, order tracking, cancel, reviews
+- Customer: register/login/logout, browse/search/filter, cart, COD checkout, order tracking, cancel, reviews, Prices displayed in MWK (Malawi Kwacha)
 - Admin: product/category CRUD, order status management, customer list, sales report
 
 ## Tech Stack
@@ -22,4 +22,5 @@ PHP, MySQL, Bootstrap 5. Prepared statements (PDO), hashed passwords, CSRF token
 - All queries use PDO prepared statements (SQL injection safe)
 - All output escaped via `e()` (XSS safe)
 - CSRF tokens on all POST forms
+
 - Sessions regenerated on login
